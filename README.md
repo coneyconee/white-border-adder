@@ -1,5 +1,5 @@
 # White Border Adder
-A tool for photographers to add white borders to their images.
+A python-based tool for photographers to add white borders to their images.
 
 ## How to Use
 
